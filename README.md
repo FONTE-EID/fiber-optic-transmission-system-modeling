@@ -3,4 +3,4 @@ A library modeling the fiber-optic channel governed by nonlinear schrödinger eq
 
 
 
-***This libabry is under documenation and code cleaning, and it will be updated soon.***
+***This libabry is under documenation and code cleaning, and it will be updated soon!***
