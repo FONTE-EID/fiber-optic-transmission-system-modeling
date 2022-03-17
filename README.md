@@ -6,7 +6,7 @@ NLS equation is solved using Split-step Fourier method in this library.
 
 The TX and RX DSP chain module, for single-polarization, includes the following functions:
 
-- Modumation
+- Modulation
 - Pulse shaping
 - Matched filtering
 - Chromatic dispersion compensation
