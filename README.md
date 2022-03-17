@@ -8,6 +8,7 @@ The TX and RX DSP chain module, for single-polarization, includes the following 
 
 - Modulation
 - Pulse shaping
+- Sampling
 - Matched filtering
 - Chromatic dispersion compensation
 - Digital back-propgation
