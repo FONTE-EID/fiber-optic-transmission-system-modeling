@@ -1,8 +1,19 @@
 # Fiber-Optic Transmission Systems Modeling
 
-A library modeling the fiber-optic channel governed by nonlinear schrödinger equation, accompanied with TX and RX DSP chain implementation
+This library modeles the fiber-optic channel governed by nonlinear Schrödinger (NLS) equation, accompanied with TX and RX DSP chain implementation.
 
+NLS equation is solved using Split-step Fourier method in this library. 
 
+The TX and RX DSP chain module, for single-polarization, includes the following functions:
+
+- Modumation
+- Pulse shaping
+- Matched filtering
+- Chromatic dispersion compensation
+- Digital back-propgation
+- Carrier phase estimation
+- Detection
+- Demodulation
 
 ***This library is under documentation!***
 
