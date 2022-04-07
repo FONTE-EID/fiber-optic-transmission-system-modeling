@@ -1,13 +1,13 @@
 # Fiber-Optic Transmission Systems Modeling
 
-This library modeles the fiber-optic channel governed by nonlinear Schrödinger (NLS) equation, accompanied with TX and RX DSP chain implementation.
+This library modeles the single-pol and dual-pol fiber-optic channels governed by nonlinear Schrödinger equation (NLSE) and coupled NLSE, accompanied with TX and RX DSP chain implementation.
 
 NLS equation is solved using split-step Fourier method in this library. 
 
-The TX and RX DSP chain module, for single-polarization, includes the following functions:
+The TX and RX DSP chain module, for single-polarization, includes the following modules:
 
 - Modulation
-- Pulse shaping
+- RRC Pulse shaping
 - Sampling
 - Matched filtering
 - Chromatic dispersion compensation
@@ -15,6 +15,13 @@ The TX and RX DSP chain module, for single-polarization, includes the following 
 - Carrier phase estimation
 - Detection
 - Demodulation
+
+For dual-polarization systems, in addition to the modules above, the following modules are implemented:
+
+- Polarization multiplexation and demultiplixation
+- Radius-directed-equalization (RDE) -based multiple-input-multiple-output (MIMO) algorithm to compensate for the PMD
+
+
 
 ***This library is under documentation!***
 
