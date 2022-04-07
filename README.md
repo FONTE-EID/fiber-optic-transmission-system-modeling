@@ -1,6 +1,6 @@
 # Fiber-Optic Transmission Systems Modeling
 
-This library modeles the single-pol and dual-pol fiber-optic channels governed by nonlinear Schrödinger equation (NLSE) and coupled NLSE, accompanied with TX and RX DSP chain implementation.
+This library models the single-pol and dual-pol fiber-optic channels governed by nonlinear Schrödinger equation (NLSE) and coupled NLSE, accompanied with TX and RX DSP chain implementation.
 
 NLS equation is solved using split-step Fourier method in this library. 
 
