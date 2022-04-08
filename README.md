@@ -26,7 +26,7 @@ For dual-polarization systems, in addition to the modules above, the following m
 ***This library is under documentation!***
 
 # Licence and Authors
-This project is developed by Abtin Shahkarami, PhD candidate at Institute Polytechnique de Paris, Telecom Paris, with the contribution of Prof. Mansoor Yousefi and Prof. Yves Jaouen, under GNU GPLv3 license.
+This project is developed by Abtin Shahkarami, PhD candidate at Institute Polytechnique de Paris, Telecom Paris, with the contribution of Prof. Mansoor Yousefi, Prof. Yves Jaouen, and Jamal Darweesh, under GNU GPLv3 license.
 
 # Citing
 Please cite the following papers if you use or modify this library:
