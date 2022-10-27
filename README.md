@@ -28,12 +28,6 @@ For dual-polarization systems, in addition to the modules above, the following m
 # Licence and Authors
 This project is developed by Abtin Shahkarami, PhD candidate at Institute Polytechnique de Paris, Telecom Paris, with the contribution of Prof. Mansoor Yousefi, Prof. Yves Jaouen, and Jamal Darweesh, under GNU GPLv3 license.
 
-# Citing
-Please cite the following papers if you use or modify this library:
-
-- A. Shahkarami, M. I. Yousefi, and Y. Jaouen, "Efficient Deep Learning of Nonlinear Fiber-Optic Communications Using a Convolutional Recurrent Neural Network," in *IEEE International Conference on Machine Learning and Applications (ICMLA)*, 2021, pp. 668-673, DOI: 10.1109/ICMLA52953.2021.00112.
-- A. Shahkarami, M. Yousefi, and Yves Jaouen, "Attention-Based Neural Network Equalization in Fiber-Optic Communications." in *Asia Communications and Photonics Conference (ACP)*, Optical Society of America, 2021, p. M5H.3, ISBN: 978-1-957171-00-5
-
 
 # Acknowledment 
 
